@@ -1,0 +1,5 @@
+These are simple menus created uing DOS commands.
+
+MyMenu - Allows you to open differnt application from dos.
+
+Program2 - Simple menu that allows users to perform different dos command operations.
